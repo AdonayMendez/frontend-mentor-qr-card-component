@@ -25,7 +25,7 @@ This challenge is a qr component that guides users seeking to develop their fron
 
 ## Links
 - [Solution URL](https://github.com/AdonayMendez/frontend-mentor-qr-card-component)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://adonaymendez.github.io/frontend-mentor-qr-card-component/)
 
 ## My process
 
@@ -77,7 +77,7 @@ I want to start implementing the margin property to center align items/text in p
 
 
 ### AI Collaboration (ChatGpt)
-- Used it to figure how to center align a text by giving it a width smaller than the parent container and using the margin property.
+Used it to figure how to center align a text by giving it a width smaller than the parent container and using the margin property.
 ```css
 max-width: 250px;
 margin: 0 auto;
